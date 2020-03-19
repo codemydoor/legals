@@ -1,0 +1,20 @@
+
+.logo{
+    height: 3rem;
+  
+}
+
+   
+
+.navbar 
+{
+    background: #740301;
+    border-color: none;
+    border-radius: 0px;
+    border: none;
+    margin-bottom: 0px;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #fcfafa;
+    font-weight: bold;
+}

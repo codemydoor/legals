@@ -1,0 +1,40 @@
+
+
+body {background-color: rgb(249, 250, 244);
+      color:rgb(15, 2, 2);}
+
+.search {margin-top: 100px;}
+
+.images {width: 8rem;
+         height:2%;
+        border: solid 1px #eee;
+        margin-top: 10rem;
+        margin-left: 120px;}
+
+.labels {margin-top: 60px;
+        margin-left: -90px;
+      }
+.input-group{
+      padding-top: 6rem;
+}
+
+
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+.labels{
+      padding-left: 21rem;
+      margin-top: 30px;
+}
+.images {
+      width: 8rem;
+      margin-top: 5rem;
+      margin-left: 13rem;
+      width: 10rem;
+      height:10rem;
+     }
+
+}
+
+

@@ -1,0 +1,82 @@
+
+
+.CoverPhoto{
+ height: 86.1vh;
+ width: 100vw;
+}
+.companyName{
+  font-weight: bolder;
+  font-size: 4rem;
+  position: absolute;
+  top: 22rem;
+  left: 60rem;
+}
+.CompanyTag{
+  position: absolute;
+  font-size: 3rem;
+  bottom: 34rem;
+  left: 48rem;
+
+}
+.button{
+  background-color: #880705;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  color: white;
+  height: 5rem;
+  width: 30rem;
+  position: absolute;
+  bottom: 28rem;
+  left: 57rem;
+  outline: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+
+  
+  .companyName{
+    position: absolute;
+    top: 17rem;
+    left: 6rem;
+  }
+  .CompanyTag{
+    font-size: 1.5rem;
+    position: absolute;
+    bottom: 37rem;
+    left: 7rem;
+  
+  }
+  .button{
+    height: 5rem;
+    width: 20rem;
+    border: none;
+    border-radius: 0.5rem;
+    position: absolute;
+    top: 30rem;
+    left: 9rem;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+   
+  }
+
+  .CoverPhoto{
+    height: 85.1vh;
+    
+   }
+  
+   
+}

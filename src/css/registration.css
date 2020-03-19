@@ -1,0 +1,66 @@
+
+
+.link {
+  float: right;
+	margin-top: 25px;} 
+
+
+.PageViewHeights{
+  height: 86.1vh;
+}
+.WelcomeText{
+  padding-top: 10rem;
+  font-weight: bold;
+  font-size: 2rem;
+  color: black;
+}
+form{
+ margin-top: 4rem;
+}
+
+body {
+  background-color: rgb(253, 249, 249);
+  color:white;}
+
+
+.mdi {color: gold; font-size: 3rem;}
+
+.icons {float: right;
+        padding-right: 20px;
+        margin-top: 20px;}
+
+.icon {margin: 20px;}
+
+
+
+
+
+
+
+
+
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+  .WelcomeText{
+    padding-top: 6rem;
+    margin-left: 3rem;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(253, 249, 249);
+  
+  }
+  form{
+    margin-top: 3rem;
+  }
+  .PageViewHeights{
+    height: 86.4vh;
+  }
+
+}
+
+
+
+
+

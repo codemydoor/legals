@@ -1,0 +1,56 @@
+.coverPhoto {
+  height: 88vh;
+  width: 100vw;
+}
+.Content{
+  color: aliceblue;
+  position: absolute;
+  top: 40rem;
+  left: 50rem;
+}
+.CompanyName{
+  font-size: 5rem;
+}
+
+
+.logo{
+  width: 10rem;
+  height: 5rem;
+}
+
+.box {
+	width: 100vw;
+	height: 110vh;
+	background:rgba(49,12,12,0.76); 
+  padding:40px 40px;
+  position: absolute;
+  bottom: 10rem;
+}
+
+.link {float: right;
+ margin-top: 25px;
+} 
+
+.auto{margin:10px;}
+
+.CompanyTag{font-size: 25px;
+
+}
+
+.text {font-size: 30px;
+ color: white;
+ text-align: center;
+}
+
+.button { background-color: rgb(126, 22, 112);
+  color: white;
+  width: 28rem;
+  height: 50px; 
+  border-radius: 5px;
+  margin-top: 30px;
+  font-size: 20px;
+  outline: none;
+}
+
+
+
