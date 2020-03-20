@@ -2,7 +2,7 @@ import React from 'react';
 import Image7 from '../image/7.jpeg'
 import Image6 from '../image/6.jpeg'
 import Image4 from '../image/4.png'
-import Image3 from '../image/3.png'
+import Image3 from '../image/3.jpg'
 import Image2 from '../image/2.png'
 
 

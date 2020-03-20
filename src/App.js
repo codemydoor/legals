@@ -10,19 +10,13 @@ function App() {
   return (
     <Router>
       <div>
-        <div className="App">
-
+      
 
           <Route exact={true} path="/" component={Home} />
           <Route exact={true} path="/startups" component={Startups} />
           <Route exact={true} path="/register" component={Register} />
           <Route exact={true} path="/login" component={Login} />
 
-
-
-
-
-        </div>
       </div>
     </Router>
   );
