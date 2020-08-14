@@ -40,26 +40,31 @@ body {
 
 
 
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 480px) {
-  .WelcomeText{
-    padding-top: 6rem;
-    margin-left: 3rem;
-    font-weight: bold;
-    font-size: 2rem;
-    color: rgb(253, 249, 249);
-  
-  }
-  form{
-    margin-top: 3rem;
-  }
-  .PageViewHeights{
-    height: 86.4vh;
-  }
+  @media only screen and (max-width: 767px) and (orientation: portrait) {
+    .WelcomeText{
+      padding-top: 6rem;
+      margin-left: 1rem;
+      font-weight: bold;
+      font-size: 2rem;
+      color: rgb(13, 15, 1);
+    
+    }
 
+    .PageViewHeights{
+      height: 84.9vh;
+    }
+
+   .form{
+   
+    position: relative;
+    top: -5rem;
+     
+   }
+  input{
+    width: 2rem;
+  }
 }
-
+  
 
 
 

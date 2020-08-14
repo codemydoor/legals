@@ -12,10 +12,10 @@ function RegistrationForm() {
 <div className="container"> 
 	<div className="row">
 		<div className="col-md-3"></div>
-		<div className="col-md-6">
-    <p className='WelcomeText' >Join Kawolegal. Sign up to get the Startup listed Now!</p>  
+		<div className="col-md-6 form">
+     
 		<form>
-    
+    <p className='WelcomeText' >Join Kawolegal. Sign up to get the Startup listed Now!</p>  
         <div className="form-group">
           <label htmlFor="disabledTextInput">Full Name</label>
           <input type="text" className="form-control" placeholder="Full Name" />
